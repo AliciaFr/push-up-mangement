@@ -9,7 +9,7 @@ const AdditionalImages = () => {
         size={`(max-width: 768px) 100vw, (max-width: 1200px) 60vw`}
       />
       <ParagraphImage
-        src="/image5.jpg"
+        src="/imagefive.jpg"
         alt="Dominik Hülshorst spielt leidenschaftlich am Schlagzeug"
         size={`(max-width: 768px) 100vw, (max-width: 1200px) 60vw`}
       />
