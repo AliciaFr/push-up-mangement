@@ -13,13 +13,10 @@ const ParagraphImage = ({
 }) => {
   return (
     <div className={`image-container ${className}`}>
-      <Image
+      <img
         alt={alt}
         src={src}
-        layout="fill"
         className={"image"}
-        quality={70}
-        sizes={size}
       />
     </div>
   );

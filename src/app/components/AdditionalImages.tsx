@@ -4,7 +4,7 @@ const AdditionalImages = () => {
   return (
     <div className="additional-images-container">
       <ParagraphImage
-        src="/image4.jpg"
+        src="/image4cropped.jpg"
         alt="Dominik Hülshorst spielt leidenschaftlich am Schlagzeug"
         size={`(max-width: 768px) 100vw, (max-width: 1200px) 60vw`}
       />
