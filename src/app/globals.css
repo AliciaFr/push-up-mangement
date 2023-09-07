@@ -96,9 +96,9 @@ a:hover {
 }
 
 .section-container {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+/*   display: flex; */
+/*   align-items: center; */
+/*   flex-direction: column; */
 }
 
 .service {
@@ -179,9 +179,9 @@ a:hover {
     align-items: start;
   }
 
-  .section-container {
+/*   .section-container {
     align-items: start;
-  }
+  } */
 
   .additional-images-container {
     grid-template-columns: 1fr;
