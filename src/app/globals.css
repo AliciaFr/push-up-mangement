@@ -77,9 +77,9 @@ a:hover {
   }
 
   .image {
-    width: 100% !important;
-    position: relative !important;
-    min-height: 280px;
+    width: 100%;
+/*     position: relative !important; */
+/*     min-height: 280px; */
     object-fit: cover;
   }
 }
