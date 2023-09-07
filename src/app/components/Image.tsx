@@ -16,8 +16,9 @@ const ParagraphImage = ({
       <Image
         alt={alt}
         src={src}
-        layout="fill"
-        className={"image"}
+        layout="responsive"
+        width={600}
+        height={600}
         quality={70}
         sizes={size}
       />
