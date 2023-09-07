@@ -70,9 +70,9 @@ a:hover {
 
 .image-container {
   width: 100%;
-  height: 100%;
+/*   height: 100%; */
 
-  > div {
+/*   > div {
     position: unset !important;
   }
 
@@ -81,7 +81,7 @@ a:hover {
     position: relative !important;
     min-height: 280px;
     object-fit: cover;
-  }
+  } */
 }
 
 .hero {
